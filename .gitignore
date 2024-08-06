@@ -1,0 +1,8 @@
+# env dir
+*/env/*
+
+# secret-key
+*/secret-key
+
+# 모든 config file
+*/*.config
